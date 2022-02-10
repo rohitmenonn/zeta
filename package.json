@@ -1,0 +1,26 @@
+{
+  "name": "zeta",
+  "version": "1.0.0",
+  "description": "A web platform for local grocery stores",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon Backend/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitmenonn/zeta.git"
+  },
+  "author": "Rohit Menon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitmenonn/zeta/issues"
+  },
+  "homepage": "https://github.com/rohitmenonn/zeta#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
